@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  list-style: none;
+  text-align: center;
+  /* font-size: 150%; */
+}
+
+div {
+  background-color: #333333;
+  color: white;
+  margin: auto;
+  width: 50%;
+}
+
+body {
+  background-color: #aaaaaa;
+  background-image: url(https://wallpaperplay.com/walls/full/7/5/3/124131.jpg);
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+ul {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.character-list-item {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid black;
+  background-color: #dddddd;
+  width: 50%;
+}

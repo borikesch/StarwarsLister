@@ -1,0 +1,39 @@
+{
+    "characters": [
+        {
+            "name": "Luke Skywalker",
+            "description": "Jedi whose coming of age and rise as a Jedi are portrayed in the original Star Wars trilogy. Son of Anakin Skywalker and Padmé Amidala, and Leia Organa's twin brother",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Admiral Gial Ackbar",
+            "description": "Commands the Rebel fleet in their attack against the second Death Star in Return of the Jedi. Ackbar is a Mon Calamari leader and military commander who fought in the Clone Wars. He devotes himself to the cause of galactic freedom and becomes the foremost military commander of the Rebel Alliance, and later the New Republic. He later works alongside General Leia Organa as part of the Resistance in The Force Awakens. He is killed along with many Resistance leaders in The Last Jedi.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Jar Jar Binks",
+            "description": "Hapless but good-natured Gungan who journeys with Qui-Gon Jinn to Coruscant.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Chewbacca",
+            "description": "Han Solo's Wookiee partner and co-pilot of the Millennium Falcon.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Anakin Skywalker",
+            "description": "Jedi whose fall and redemption are portrayed in the Star Wars films. His master was Obi-Wan Kenobi. He was married to Padmé Amidala; father of Luke and Leia. He is an excellent podracer and he is 'the Chosen One'. Known as 'Darth Vader' after his fall to the dark side.",
+            "hasForce": true,
+            "side": "dark",
+            "franchise": "starwars"
+        }
+    ]
+}
