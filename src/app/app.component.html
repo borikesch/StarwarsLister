@@ -1,16 +1,19 @@
-<div>
-  <h1>{{title}}</h1>
-  <h2>{{subTitle}}</h2>
-</div>
-<ul>
-  <li class="character-list-item"
-      *ngFor="let character of characters">
-    <h2 [ngStyle]="{'color': character.side === 'light' ? 'blue' : 'red'}">
-      {{ character.name }} <span *ngIf="character.hasForce">(FORCE)</span>
-    </h2>
-    <span class="description"
-          *ngIf="character.description">
+<div class="content">
+  <div class="trans-box"></div>
+  <div>
+    <h1>{{title}}</h1>
+    <h2>{{subTitle}}</h2>
+  </div>
+  <ul>
+    <li class="character-list-item"
+        *ngFor="let character of characters">
+      <h2 [ngStyle]="{'color': character.side === 'light' ? 'blue' : 'red'}">
+        {{ character.name }} <span *ngIf="character.hasForce">(FORCE)</span>
+      </h2>
+      <span class="description"
+            *ngIf="character.description">
       {{ character.description }}
     </span>
-  </li>
-</ul>
+    </li>
+  </ul>
+</div>

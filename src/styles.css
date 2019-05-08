@@ -2,14 +2,23 @@
 * {
   list-style: none;
   text-align: center;
-  /* font-size: 150%; */
 }
 
-div {
-  background-color: #333333;
-  color: white;
+.trans-box {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-color:white;
+  width: inherit;
+  height: 100%;
+  opacity: 0.3;
+  position: fixed;
+
+}
+
+.content {
   margin: auto;
   width: 50%;
+  color: Black;
 }
 
 body {
@@ -31,5 +40,6 @@ ul {
   margin-bottom: 5px;
   border: 1px solid black;
   background-color: #dddddd;
-  width: 50%;
+  width: 80%;
+  color: black;
 }
