@@ -15,8 +15,8 @@ div {
 body {
   background-color: #aaaaaa;
   background-image: url(https://wallpaperplay.com/walls/full/7/5/3/124131.jpg);
-  background-size:     cover;
   background-repeat:   no-repeat;
+  background-attachment: fixed;
 }
 
 ul {
