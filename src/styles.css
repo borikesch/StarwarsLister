@@ -10,7 +10,8 @@
   background-color:white;
   width: inherit;
   height: 100%;
-  opacity: 0.3;
+  opacity: 0.5;
+  z-index: -1;
   position: fixed;
 
 }
@@ -22,10 +23,11 @@
 }
 
 body {
-  background-color: #aaaaaa;
   background-image: url(https://wallpaperplay.com/walls/full/7/5/3/124131.jpg);
   background-repeat:   no-repeat;
   background-attachment: fixed;
+  margin: 0;
+  padding: 0;
 }
 
 ul {
@@ -42,4 +44,7 @@ ul {
   background-color: #dddddd;
   width: 80%;
   color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }
