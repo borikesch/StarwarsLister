@@ -34,6 +34,27 @@
             "hasForce": true,
             "side": "dark",
             "franchise": "starwars"
+        },
+        {
+            "name": "Boba Fett",
+            "description": "Bounty hunter and nemesis of Han Solo and Mace Windu, he is a clone of Jango Fett raised by Jango on Kamino as his son. He is one of the six bounty hunters hired by Darth Vader to find the Millennium Falcon in The Empire Strikes Back. He finds the ship and brings a bounty of its captain, Han Solo, frozen in carbonite, to Jabba the Hutt. He appears again in Return of the Jedi, at Jabba's palace. When Luke Skywalker and his friends come to rescue Han, Fett falls into the mouth of Jabba's Sarlacc during the fight.",
+            "hasForce": false,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Jabba the Hutt",
+            "description": "Crime boss employing bounty hunters in the A New Hope Special Edition, Return of the Jedi, The Phantom Menace, and The Clone Wars, killed by Princess Leia aboard his sail barge in Return of the Jedi. His full name is Jabba Desilijic Tiure.",
+            "hasForce": false,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Obi-Wan Kenobi",
+            "description": "Wise and skilled Jedi Master who trains Anakin and later Luke Skywalker. A member of the Jedi Council and one of the survivors of the Great Jedi Purge, Obi-Wan is also a Jedi General during the Clone Wars. He kills General Grievous and defeated Darth Maul, and his master is Qui-Gon Jinn, who is killed by Maul. Obi-Wan is slain In A New Hope by his former apprentice Anakin, who had become Darth Vader. Guinness' and McGregor's voices as Obi-Wan can be heard in The Force Awakens during a vision sequence featuring the character Rey.",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
         }
     ]
 }
