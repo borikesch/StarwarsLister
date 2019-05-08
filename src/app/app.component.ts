@@ -21,4 +21,12 @@ export class AppComponent implements OnInit {
       this.characters = data.characters;
     });
   }
+
+  public sortList(attribute) {
+    this.characters.sort((a, b) => {
+      if (a[attribute] < b[attribute]) return -1;
+      else return 1;
+    });
+  }
+
 }
