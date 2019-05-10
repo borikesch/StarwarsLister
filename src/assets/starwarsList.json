@@ -36,6 +36,13 @@
             "franchise": "starwars"
         },
         {
+            "name": "Anakin Skywalker",
+            "description": "Jedi whose fall and redemption are portrayed in the Star Wars films. His master was Obi-Wan Kenobi. He was married to Padmé Amidala; father of Luke and Leia. He is an excellent podracer and he is 'the Chosen One'. Known as 'Darth Vader' after his fall to the dark side.",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
             "name": "Boba Fett",
             "description": "Bounty hunter and nemesis of Han Solo and Mace Windu, he is a clone of Jango Fett raised by Jango on Kamino as his son. He is one of the six bounty hunters hired by Darth Vader to find the Millennium Falcon in The Empire Strikes Back. He finds the ship and brings a bounty of its captain, Han Solo, frozen in carbonite, to Jabba the Hutt. He appears again in Return of the Jedi, at Jabba's palace. When Luke Skywalker and his friends come to rescue Han, Fett falls into the mouth of Jabba's Sarlacc during the fight.",
             "hasForce": false,
@@ -53,6 +60,98 @@
             "name": "Obi-Wan Kenobi",
             "description": "Wise and skilled Jedi Master who trains Anakin and later Luke Skywalker. A member of the Jedi Council and one of the survivors of the Great Jedi Purge, Obi-Wan is also a Jedi General during the Clone Wars. He kills General Grievous and defeated Darth Maul, and his master is Qui-Gon Jinn, who is killed by Maul. Obi-Wan is slain In A New Hope by his former apprentice Anakin, who had become Darth Vader. Guinness' and McGregor's voices as Obi-Wan can be heard in The Force Awakens during a vision sequence featuring the character Rey.",
             "hasForce": true,
+            "side": "light",
+            "franchise": "starwars",
+            "hasTheHighGround": true
+        },
+        {
+            "name": "Obi-Wan Kenobi",
+            "description": "Wise and skilled Jedi Master who trains Anakin and later Luke Skywalker. A member of the Jedi Council and one of the survivors of the Great Jedi Purge, Obi-Wan is also a Jedi General during the Clone Wars. He kills General Grievous and defeated Darth Maul, and his master is Qui-Gon Jinn, who is killed by Maul. Obi-Wan is slain In A New Hope by his former apprentice Anakin, who had become Darth Vader. Guinness' and McGregor's voices as Obi-Wan can be heard in The Force Awakens during a vision sequence featuring the character Rey.",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Grand Inquisitor",
+            "description": "A Pau'an Force wielder and former Jedi Temple Guard who becomes the highest-ranking Inquisitor, and who is tasked (along with his subordinates) with hunting down Force-sensitive children and preventing them from becoming Jedi. He is later assigned to hunt down Kanan Jarrus and Ezra Bridger, but is eventually defeated by Kanan in combat and chooses to commit suicide rather than face the infamous wrath of Darth Vader for his failure.",
+            "hasForce": true,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "C-3PO",
+            "description": "Protocol droid who appears throughout the Star Wars films.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Klik-Klak",
+            "description": "The lone surviving male Geonosian of an Imperial genocide of the Geonosians following the completion of the first Death Star, Klik-Klak sets up a defense using old Separatist battle droids and droidekas to defend both himself, and the lone surviving Geonosian queen egg he defended, to ensure his species' survival - his encounter with the Ghost crew and Saw Gerrera (who was already on the planet) within Geonosis' underground tunnels, nearly ends in tragedy but Ezra Bridger manages to befriend Klik-Klak, with the Spectres discovering evidence of the Empire's genocide of the Geonosians, despite the Spectres narrowly escaping capture by the Empire.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Darth Maul",
+            "description": "Mother Talzin's son and the apprentice of Darth Sidious in The Phantom Menace who kills Qui-Gon Jinn but is defeated by Obi-Wan Kenobi. He later returns during the Clone Wars with his brother, Savage Opress, to get revenge on Obi-Wan. After losing to a duel with his former master, Darth Sidious (and seeing his brother get killed), Maul is captured, and although he escapes, he soon witnesses the collapse of his group, the Shadow Collective, and the death of his mother. Forced to flee, he is left in exile on the planet Malachor for many years, until he meets the young Jedi, Ezra Bridger, whom he attempts to drift to the dark side. Although he fails, Maul is able to escape aboard a TIE fighter; he later returns in the third season looking to locate the long absent Obi-Wan Kenobi. He is finally killed by his old enemy on Tatooine in the episode 'Twin Suns'.",
+            "hasForce": true,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "R2-D2",
+            "description": "Astromech droid built on Naboo that appears in all eight Star Wars films and in Rogue One: A Star Wars Story.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Rey",
+            "description": "Scavenger who lives on the desert planet Jakku. She and Finn seek to return BB-8 to the Resistance, but she is captured by Kylo Ren. His interrogation unlocks her ability to use the Force.",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Leia Organa",
+            "description": "Leader in the Rebel Alliance, the New Republic, and the Resistance. She is the biological daughter of Anakin Skywalker and Padmé Amidala, as well as Luke Skywalker's twin sister, Han Solo's wife and Kylo Ren's mother.",
+            "hasForce": false,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Grand Moff Wilhuff Tarkin",
+            "description": "The Imperial governor of the Outer Rim territories, and the commanding officer of the Death Star in A New Hope. He oversees the construction and operation of the Death Star in Revenge of the Sith and A New Hope respectively, and dies on the Death Star in A New Hope when Luke Skywalker destroys it.",
+            "hasForce": false,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Grand Admiral Thrawn",
+            "description": "Chiss Grand Admiral of the Imperial Navy, known as a brilliant strategist. He appears in the third season of Rebels, and the novel Thrawn.",
+            "hasForce": false,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Yoda",
+            "description": "Jedi master who trains Count Dooku and Luke Skywalker. He goes into exile on Dagobah after the fall of the Republic in Revenge of the Sith",
+            "hasForce": true,
+            "side": "light",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Pikachu",
+            "description": "Jedi master that throws around lightning. Not known to be a man of many words, but very reliable",
+            "hasForce": true,
+            "side": "dark",
+            "franchise": "starwars"
+        },
+        {
+            "name": "Agumon",
+            "description": "Firebender that fled the fire-nation when the air nation attacked. Known to be very suspectible to change.",
+            "hasForce": false,
             "side": "light",
             "franchise": "starwars"
         }
